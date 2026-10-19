@@ -25,7 +25,7 @@ Platforms designed and delivered with [Advanced Geospatial Solutions](https://ww
 | KeSMIS, national slum MIS, with eGRM | KISIP, State Department for Housing and Urban Development, World Bank | [Live](https://kesmis.go.ke) · [Grievances](https://kesmis.go.ke/grm) |
 | Kenya Slum Mapper | KISIP | Google Play |
 | Central Rift Valley Water MIS and field reporting app | Central Rift Valley Water Works Development Agency | [Live](https://wwda.ags.co.ke/#/dashboard/status) |
-| Nairobi Farmer and urban agriculture database | Mazingira Institute | [Live](https://nfs.mazinst.org/) |
+| UAFSD, urban agriculture database and Nairobi Farmer app | Mazingira Institute | [Live](https://nfs.mazinst.org/) |
 | IPMIS, real-time water sector monitoring | Ministry of Water and Environment, Uganda, and UNICEF Uganda | [Live](http://wash.go.ug) |
 | WASHKE, national WASH 5W coordination | Ministry of Health, Kenya, and UNICEF Kenya | [Live](https://wash.water.go.ke/home) |
 | CLTS, national WASH monitoring and evaluation | Ministry of Health, Kenya, and UNICEF Kenya | [Live](http://wash.health.go.ke/clts) |
