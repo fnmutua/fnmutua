@@ -39,6 +39,8 @@ Platforms designed and delivered with [Advanced Geospatial Solutions](https://ww
 | Public-health GIS | WHO Kenya | Delivered |
 | Health-sector M&E database | Management Sciences for Health, Kenya | Delivered |
 | Kalobeyei resettlement data portal | UN-Habitat, UNHCR, and Turkana County | Delivered |
+| Generic eGRM, multi-tenant grievance redress | AGS concept prototype | [Repository](https://github.com/fnmutua/egrm) |
+| AGS ERP | Advanced Geospatial Solutions, internal | Internal |
 
 ## Mobile apps
 
@@ -48,7 +50,7 @@ Platforms designed and delivered with [Advanced Geospatial Solutions](https://ww
 | Kisumu Watch | Android | [Google Play](https://play.google.com/store/apps/details?id=com.kisumu.ews) |
 | The Nairobi Farmer | Android | [Google Play](https://play.google.com/store/apps/details?id=co.ke.ags.urban.farmer) |
 | CLTS Reporting Tool | Android | [Google Play](https://play.google.com/store/apps/details?id=ke.co.miles.clts) |
-| Water MIS Mobile | Android | Delivered for CRVWWDA |
+| Water MIS Mobile | Android | [Google Play](https://play.google.com/store/apps/details?id=co.ke.ags.water.works) |
 | Child-protection early-warning app | Android and iOS | Delivered for Save the Children |
 
 ## Open source
