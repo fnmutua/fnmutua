@@ -39,7 +39,7 @@ Platforms designed and delivered with [Advanced Geospatial Solutions](https://ww
 | Public-health GIS | WHO Kenya | Delivered |
 | Health-sector M&E database | Management Sciences for Health, Kenya | Delivered |
 | Kalobeyei resettlement data portal | UN-Habitat, UNHCR, and Turkana County | Delivered |
-| Generic eGRM, multi-tenant grievance redress | AGS concept prototype | [Repository](https://github.com/fnmutua/egrm) |
+| Generic eGRM, multi-tenant grievance redress | AGS concept prototype | [Prototype](https://egrmportal-production.up.railway.app) |
 | AGS ERP | Advanced Geospatial Solutions, internal | Internal |
 
 ## Mobile apps
