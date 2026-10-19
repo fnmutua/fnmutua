@@ -8,6 +8,8 @@ Co-founder and Director of GIS at [Advanced Geospatial Solutions](https://www.ag
 
 Nairobi, Kenya · felix.mutua [at] gmail [dot] com · [ags.co.ke](https://www.ags.co.ke/)
 
+[Systems](#systems) · [Mobile apps](#mobile-apps) · [Open source](#open-source)
+
 ## What I work on
 
 - National GIS and management-information systems: PostgreSQL/PostGIS, GeoServer, GeoNode, web GIS
@@ -23,7 +25,6 @@ Platforms designed and delivered with [Advanced Geospatial Solutions](https://ww
 | --- | --- | --- |
 | Kisumu Watch, climate early warning | UNDP and Kisumu County | [Live](https://ews.up.railway.app/) |
 | KeSMIS, national slum MIS, with eGRM | KISIP, State Department for Housing and Urban Development, World Bank | [Live](https://kesmis.go.ke) · [Grievances](https://kesmis.go.ke/grm) |
-| Kenya Slum Mapper | KISIP | Google Play |
 | Central Rift Valley Water MIS and field reporting app | Central Rift Valley Water Works Development Agency | [Live](https://wwda.ags.co.ke/#/dashboard/status) |
 | UAFSD, urban agriculture database and Nairobi Farmer app | Mazingira Institute | [Live](https://nfs.mazinst.org/) |
 | WASHMIS (IPMIS), real-time water sector monitoring | Ministry of Water and Environment, Uganda, and UNICEF Uganda | [Live](https://wash.go.ug/) |
@@ -33,12 +34,22 @@ Platforms designed and delivered with [Advanced Geospatial Solutions](https://ww
 | EmA-FSS, emergency agriculture and food security surveillance | Ministry of Agriculture, Malawi, and FAO Malawi | Delivered |
 | SLEEK, land-based emissions estimation reporting | Ministry of Environment and Forestry, Kenya | Delivered |
 | AMANI, training management database | Save the Children, East and West Africa | Delivered |
-| Child-protection early-warning app | Save the Children, East and West Africa | Delivered |
 | Complementary School Information System | Concern Worldwide and Ministry of Education, Kenya | Delivered |
 | Road inventory and condition survey data system (RICS 2022, Zone 4) | Kenya Roads Board | Delivered |
 | Public-health GIS | WHO Kenya | Delivered |
 | Health-sector M&E database | Management Sciences for Health, Kenya | Delivered |
 | Kalobeyei resettlement data portal | UN-Habitat, UNHCR, and Turkana County | Delivered |
+
+## Mobile apps
+
+| App | Platforms | Stores |
+| --- | --- | --- |
+| Kenya Slum Mapper | Android and iOS | [Google Play](https://play.google.com/store/apps/details?id=co.ke.ags.slum.mapper) · [App Store](https://apps.apple.com/us/app/slum-mapper/id6739756553) |
+| Kisumu Watch | Android | [Google Play](https://play.google.com/store/apps/details?id=com.kisumu.ews) |
+| The Nairobi Farmer | Android | [Google Play](https://play.google.com/store/apps/details?id=co.ke.ags.urban.farmer) |
+| CLTS Reporting Tool | Android | [Google Play](https://play.google.com/store/apps/details?id=ke.co.miles.clts) |
+| Water MIS Mobile | Android | Delivered for CRVWWDA |
+| Child-protection early-warning app | Android and iOS | Delivered for Save the Children |
 
 ## Open source
 
